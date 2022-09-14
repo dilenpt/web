@@ -1,0 +1,27 @@
+header {
+  background-color: gray;
+  text-align: center;
+}
+html{
+  background-color: #4287f5;
+}
+
+h2{
+  text-align: center;
+}
+p{
+ text-align: center;
+}
+ .picofme{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%
+ }
+h3{
+  border-style: solid;
+  text-align: center;
+}
+div{
+  text-align: center;
+}
